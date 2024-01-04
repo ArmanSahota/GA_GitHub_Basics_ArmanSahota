@@ -1,4 +1,4 @@
-﻿namespace GA_GitHub_Basics
+﻿namespace GA_GitHub_Basics_ArmanSahota
 {
     internal class Program
     {
